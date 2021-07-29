@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\bin\Debug\net5.0\Prjcommandlineapp.exe
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\bin\Debug\net5.0\Prjcommandlineapp.deps.json
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\bin\Debug\net5.0\Prjcommandlineapp.runtimeconfig.json
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\bin\Debug\net5.0\Prjcommandlineapp.runtimeconfig.dev.json
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\bin\Debug\net5.0\Prjcommandlineapp.dll
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\bin\Debug\net5.0\ref\Prjcommandlineapp.dll
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\bin\Debug\net5.0\Prjcommandlineapp.pdb
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\obj\Debug\net5.0\Prjcommandlineapp.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\obj\Debug\net5.0\Prjcommandlineapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\obj\Debug\net5.0\Prjcommandlineapp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\obj\Debug\net5.0\Prjcommandlineapp.AssemblyInfo.cs
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\obj\Debug\net5.0\Prjcommandlineapp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\obj\Debug\net5.0\Prjcommandlineapp.dll
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\obj\Debug\net5.0\ref\Prjcommandlineapp.dll
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\obj\Debug\net5.0\Prjcommandlineapp.pdb
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Prjcommandlineapp\obj\Debug\net5.0\Prjcommandlineapp.genruntimeconfig.cache
